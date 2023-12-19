@@ -1,10 +1,4 @@
-/**
-* Template Name: BoomAdmin
-* Updated: 20/8/2566 with Bootstrap v1
-* Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-* Author: Boom
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
